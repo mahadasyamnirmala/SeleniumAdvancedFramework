@@ -131,7 +131,7 @@ flowchart TB
 ## 📁 Project Structure
 
 ```
-ATB14xSeleniumAdvanceFramework/
+ATB15xSeleniumAdvanceFramework/
 ├── src/
 │   ├── main/
 │   │   ├── java/com/thetestingacademy/
